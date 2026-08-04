@@ -1,5 +1,5 @@
 /* ==========================================================================
-   VACATIO MAXIMA - AANGEPASTE STIJL
+   VACATIO MAXIMA - STIJLBLAD
    ========================================================================== */
 
 :root {
@@ -107,7 +107,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 .praesidium-card { background: var(--white); border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-sm); transition: var(--transition); text-align: center; }
 .praesidium-card:hover { transform: translateY(-8px); box-shadow: var(--shadow-md); }
-.card-img-box { height: 220px; overflow: hidden; }
+.card-img-box { height: 260px; overflow: hidden; }
 .card-img-box img { width: 100%; height: 100%; object-fit: cover; }
 .card-info { padding: 20px; }
 .card-info .role { font-size: 0.75rem; font-weight: 700; color: var(--primary-green); text-transform: uppercase; }
